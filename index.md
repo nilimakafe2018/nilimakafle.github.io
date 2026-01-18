@@ -4,6 +4,8 @@ I am a passionate Software Developer with 3+ years of experience building data-d
 
 <img src="assets/profile.jpg" alt="Profile Image" height="200"/>
 
+---
+
 ## What I Can Do
 
 **Full-Stack Web Development:** Build interactive, responsive web applications using JavaScript, React, Java, Spring Boot, HTML/CSS, and SQL.
