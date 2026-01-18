@@ -23,7 +23,7 @@ I am a passionate Software Developer with 3+ years of experience building data-d
 ---
 
 - [Resume & Achievements](resume.md) – View my resume and accomplishments  
-- [Project Work](projects.md) – My projects with screenshots and GitHub links  
-- [Contact Me](contact.md) – Let's connect via email or LinkedIn
+- [Project Work](projects.md) – Explore my projects with screenshots and GitHub links  
+- [Contact Me](contact.md) – Get in touch via email or LinkedIn
 
 
