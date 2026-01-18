@@ -1,6 +1,6 @@
 # Hi, I'm Nilima Kafle 👋
 
-I am a **Graduate Research Assistant and Data Analyst** with experience in SQL, Python, Tableau, Excel, and building web portfolios using Jekyll and GitHub Pages. I enjoy **turning data into actionable insights** and creating interactive dashboards.  
+I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL. I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions.
 
 ![Profile Image](assets/profile.jpg)
 
