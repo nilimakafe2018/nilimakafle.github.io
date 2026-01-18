@@ -1,24 +1,10 @@
-<div style="display:flex; align-items:flex-start; gap:30px;">
+# Hi, I'm Nilima Kafle <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" /> 
 
-  <div style="flex:2;">
-    <h1>Hi, I'm Nilima Kafle 
-      <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" />
-    </h1>
+I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL. I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions.
 
-    <p>
-      I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL.
-    </p>
+<img src="assets/profile.jpg" alt="Profile Image" height="200"/> 
 
-    <p>
-      I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions.
-    </p>
-  </div>
-
-  <div style="flex:1;">
-    <img src="assets/profile.jpg" alt="Profile Image" height="200" />
-  </div>
-
-</div>
+---
 
 ## What I Can Do
 
