@@ -8,17 +8,17 @@ I am a passionate Software Developer with 3+ years of experience building data-d
 
 ## What I Can Do
 
-* Full-Stack Web Development: Build interactive, responsive web applications using JavaScript, React, Java, Spring Boot, HTML/CSS, and SQL.
+**Full-Stack Web Development:** Build interactive, responsive web applications using JavaScript, React, Java, Spring Boot, HTML/CSS, and SQL.
 
-* Data Analysis & Reporting: Extract, clean, and analyze data using SQL and Python; create dashboards and visualizations to provide actionable insights.
+**Data Analysis & Reporting:** Extract, clean, and analyze data using SQL and Python; create dashboards and visualizations to provide actionable insights.
 
-* Database Integration & Management: Design and manage relational databases; ensure data integrity and optimized queries.
+**Database Integration & Management:** Design and manage relational databases; ensure data integrity and optimized queries.
 
-* Process Automation: Automate workflows and reporting processes to improve efficiency and reduce errors.
+**Process Automation:** Automate workflows and reporting processes to improve efficiency and reduce errors.
 
-* Agile & Cross-Functional Collaboration: Work effectively in teams, follow SDLC best practices, and deliver reliable solutions in Agile environments.
+**Agile & Cross-Functional Collaboration:** Work effectively in teams, follow SDLC best practices, and deliver reliable solutions in Agile environments.
 
-* Technical Documentation: Create clear documentation for projects, code, and processes to ensure maintainability and knowledge sharing.
+**Technical Documentation:** Create clear documentation for projects, code, and processes to ensure maintainability and knowledge sharing.
 
 ---
 
