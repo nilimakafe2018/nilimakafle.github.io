@@ -1,10 +1,8 @@
-# Hi, I'm Nilima Kafle 👋
+| About Me | |
+|--------|------|
+| I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL.  
 
-I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL. I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions.
-
-<img src="assets/profile.jpg" alt="Profile Image" width="200" height="200"/>
-
----
+I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions. | ![Profile](assets/profile.jpg) |
 
 ## What I Can Do
 
