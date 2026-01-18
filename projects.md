@@ -10,4 +10,6 @@ This mini online course is designed to help Process Feedback users become famili
 ## 2. Process Feedback - Created Dashboard
 I was involved in creating performance dashboards for 40,000+ users in 100+ countries.
 
+![Dashboard Screenshot](assets/DASHBOARD.jpg) 
+
 
