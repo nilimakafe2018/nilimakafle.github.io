@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Hi, I'm Nilima Kafle 👋
 
 I am a **Graduate Research Assistant and Data Analyst** with experience in SQL, Python, Tableau, Excel, and building web portfolios using Jekyll and GitHub Pages. I enjoy **turning data into actionable insights** and creating interactive dashboards.  
