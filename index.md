@@ -17,9 +17,7 @@
 
 <hr/>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+
 
 ### 👩‍💻 About Me
 
