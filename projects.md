@@ -33,10 +33,4 @@ I was involved in creating performance dashboards for **40,000+ users** in **100
 
 ---
 
-<div align="center">
-  
-**Want to know more?** Check out my [Resume](resume.md) or [Contact Me](contact.md)!
-
-</div>
-
 
