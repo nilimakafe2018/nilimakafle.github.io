@@ -1,0 +1,31 @@
+:root {
+  /* single place to change later if you want a different max width */
+  --site-max-width: 1024px;
+}
+
+/* Site wrapper / container — adapt the selector to match your theme.
+   Common selectors: .container, .site, .site-wrapper, #page, .content, .main */
+.site-container,
+.container,
+.site-wrapper,
+#page,
+.main,
+.content {
+  max-width: var(--site-max-width);
+  width: 100%;               /* allow shrinking on small screens */
+  margin-left: auto;
+  margin-right: auto;        /* center on large screens */
+  box-sizing: border-box;
+  padding-left: 16px;        /* small side padding on narrow viewports */
+  padding-right: 16px;
+}
+
+/* Prevent large media from overflowing the container */
+img, picture, video, iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* If a theme rule is more specific, you can increase specificity:
+   e.g. body .container { ... } or as a last resort use !important */
