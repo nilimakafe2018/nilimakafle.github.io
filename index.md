@@ -19,6 +19,11 @@
 
 ## 👩‍💻 About Me
 
+<table>
+  <tr>
+    <!-- Left column: About Me text -->
+    <td width="65%" valign="top">
+
 I am a passionate **Software Developer with 3+ years of experience** building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using **JavaScript, React, Java, Spring Boot, Python, and SQL**.
 
 I also bring experience as a **Data Analyst**, where I:
@@ -28,11 +33,14 @@ I also bring experience as a **Data Analyst**, where I:
 
 I’ve worked on both **academic and professional projects** involving dashboards, database integration, and reporting. I’m always excited to **learn, grow, and contribute to meaningful technology solutions**.
 
-<p align="center">
-  <img src="assets/profile.jpg" alt="Profile Image" height="220" style="border-radius:12px;" />
-</p>
+    </td>
 
----
+    <!-- Right column: Profile picture -->
+    <td width="35%" align="center" valign="top">
+      <img src="assets/profile.jpg" alt="Profile Image" height="220" style="border-radius:12px;" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 What I Can Do
 
