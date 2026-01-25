@@ -68,7 +68,3 @@ I’ve worked on both **academic and professional projects** involving dashboard
 - 📬 **[Contact Me](contact.md)** – Email and LinkedIn  
 
 ---
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
