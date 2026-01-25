@@ -1,29 +1,83 @@
-# Hi, I am Nilima Kafle <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" /> 
+<h1 align="center">
+  Hi, I'm Nilima Kafle 
+  <img src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" width="35" />
+</h1>
 
-I am a passionate Software Developer with 3+ years of experience building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using JavaScript, React, Java, Spring Boot, Python, and SQL. I also have experience as a Data Analyst, where I extracted data using SQL, analyzed trends, and presented insights to stakeholders and faculty. I have worked on academic and professional projects involving dashboards, database integration, and reporting, and I am always excited to learn, grow, and contribute to meaningful technology solutions.
+<p align="center">
+  <b>Software Developer | Full-Stack & Data Analytics</b><br/>
+  JavaScript • React • Java • Spring Boot • Python • SQL
+</p>
 
-<img src="assets/profile.jpg" alt="Profile Image" height="200"/> 
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="resume.md">Resume</a> •
+  <a href="projects.md">Projects</a> •
+  <a href="contact.md">Contact</a>
+</p>
+
+<hr/>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+### 👩‍💻 About Me
+
+I am a passionate **Software Developer with 3+ years of experience** building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using **JavaScript, React, Java, Spring Boot, Python, and SQL**.
+
+I also bring experience as a **Data Analyst**, where I:
+- Extracted and analyzed data using SQL  
+- Identified trends and insights  
+- Built dashboards and reports for stakeholders and faculty  
+
+I’ve worked on both **academic and professional projects** involving dashboards, database integration, and reporting. I’m always excited to **learn, grow, and contribute to meaningful technology solutions**.
+
+    </td>
+    <td width="35%" align="center">
+
+<img src="assets/profile.jpg" alt="Profile Image" height="220" style="border-radius: 12px;" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## What I Can Do
+## 🚀 What I Can Do
 
-**Full-Stack Web Development:** Build interactive, responsive web applications using JavaScript, React, Java, Spring Boot, HTML/CSS, and SQL.
+### 💻 Full-Stack Development
+- Build responsive web apps using **React, Java, Spring Boot, HTML, CSS**
+- Design RESTful APIs and integrate frontend & backend systems
 
-**Data Analysis & Reporting:** Extract, clean, and analyze data using SQL and Python; create dashboards and visualizations to provide actionable insights.
+### 📊 Data Analysis & Reporting
+- Extract, clean, and analyze data using **SQL & Python**
+- Create dashboards and visualizations for actionable insights
 
-**Database Integration & Management:** Design and manage relational databases; ensure data integrity and optimized queries.
+### 🗄️ Database & Backend
+- Design and manage relational databases
+- Write optimized queries and ensure data integrity
 
-**Process Automation:** Automate workflows and reporting processes to improve efficiency and reduce errors.
+### ⚙️ Automation & Efficiency
+- Automate workflows and reporting processes
+- Reduce manual effort and improve reliability
 
-**Agile & Cross-Functional Collaboration:** Work effectively in teams, follow SDLC best practices, and deliver reliable solutions in Agile environments.
+### 🤝 Collaboration & Agile
+- Work in Agile teams
+- Collaborate across technical and non-technical stakeholders
 
-**Technical Documentation:** Create clear documentation for projects, code, and processes to ensure maintainability and knowledge sharing.
+### 📝 Documentation
+- Write clean, maintainable documentation for projects and systems
 
 ---
 
-- [Resume & Achievements](resume.md) – View my resume and accomplishments  
-- [Project Work](projects.md) – Explore my projects with screenshots and GitHub links  
-- [Contact Me](contact.md) – Get in touch via email or LinkedIn
+## 🔗 Explore More
 
+- 📄 **[Resume & Achievements](resume.md)** – Experience, skills, and accomplishments  
+- 💡 **[Project Work](projects.md)** – Projects with screenshots and GitHub links  
+- 📬 **[Contact Me](contact.md)** – Email and LinkedIn  
 
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
