@@ -1,83 +1,337 @@
-<h1 align="center">
-  Hi, I'm Nilima Kafle 
-  <img src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" width="35" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nilima Kafle - Software Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-<p align="center">
-  <b>Software Developer | Full-Stack & Data Analytics</b><br/>
-  JavaScript • React • Java • Spring Boot • Python • SQL
-</p>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
 
-<p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="resume.md">Resume</a> •
-  <a href="projects.md">Projects</a> •
-  <a href="contact.md">Contact</a>
-</p>
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
-<hr/>
+        header {
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+            text-align: center;
+            border-bottom: 3px solid #2c3e50;
+        }
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
 
-### 👩‍💻 About Me
+        .subtitle {
+            color: #555;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
 
-I am a passionate **Software Developer with 3+ years of experience** building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using **JavaScript, React, Java, Spring Boot, Python, and SQL**.
+        .tech-stack {
+            color: #777;
+            margin-bottom: 20px;
+        }
 
-I also bring experience as a **Data Analyst**, where I:
-- Extracted and analyzed data using SQL  
-- Identified trends and insights  
-- Built dashboards and reports for stakeholders and faculty  
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
 
-I’ve worked on both **academic and professional projects** involving dashboards, database integration, and reporting. I’m always excited to **learn, grow, and contribute to meaningful technology solutions**.
+        nav a {
+            color: #2c3e50;
+            text-decoration: none;
+            padding: 8px 20px;
+            border: 2px solid #2c3e50;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
 
-    </td>
-    <td width="35%" align="center">
+        nav a:hover {
+            background: #2c3e50;
+            color: white;
+        }
 
-<img src="assets/profile.jpg" alt="Profile Image" height="220" style="border-radius: 12px;" />
+        .about-section {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 30px;
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+        }
 
-    </td>
-  </tr>
-</table>
+        .about-content h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
 
----
+        .about-content p {
+            margin-bottom: 15px;
+        }
 
-## 🚀 What I Can Do
+        .about-content ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
 
-### 💻 Full-Stack Development
-- Build responsive web apps using **React, Java, Spring Boot, HTML, CSS**
-- Design RESTful APIs and integrate frontend & backend systems
+        .about-content li {
+            margin-bottom: 8px;
+        }
 
-### 📊 Data Analysis & Reporting
-- Extract, clean, and analyze data using **SQL & Python**
-- Create dashboards and visualizations for actionable insights
+        .profile-image {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
 
-### 🗄️ Database & Backend
-- Design and manage relational databases
-- Write optimized queries and ensure data integrity
+        .profile-image img {
+            width: 100%;
+            max-width: 250px;
+            border-radius: 5px;
+            border: 2px solid #ddd;
+        }
 
-### ⚙️ Automation & Efficiency
-- Automate workflows and reporting processes
-- Reduce manual effort and improve reliability
+        .skills-section {
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+        }
 
-### 🤝 Collaboration & Agile
-- Work in Agile teams
-- Collaborate across technical and non-technical stakeholders
+        .skills-section h2 {
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 1.8em;
+        }
 
-### 📝 Documentation
-- Write clean, maintainable documentation for projects and systems
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
 
----
+        .skill-card {
+            background: #f9f9f9;
+            padding: 20px;
+            border-left: 4px solid #2c3e50;
+        }
 
-## 🔗 Explore More
+        .skill-card h3 {
+            margin-bottom: 12px;
+            font-size: 1.2em;
+            color: #2c3e50;
+        }
 
-- 📄 **[Resume & Achievements](resume.md)** – Experience, skills, and accomplishments  
-- 💡 **[Project Work](projects.md)** – Projects with screenshots and GitHub links  
-- 📬 **[Contact Me](contact.md)** – Email and LinkedIn  
+        .skill-card ul {
+            list-style: none;
+        }
 
----
+        .skill-card li {
+            padding: 5px 0;
+            padding-left: 15px;
+            position: relative;
+            color: #555;
+        }
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+        .skill-card li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #2c3e50;
+        }
+
+        .links-section {
+            background: white;
+            padding: 40px;
+            margin-bottom: 30px;
+        }
+
+        .links-section h2 {
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 1.8em;
+        }
+
+        .link-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .link-card {
+            background: #f9f9f9;
+            padding: 25px;
+            text-align: center;
+            color: #2c3e50;
+            text-decoration: none;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            display: block;
+        }
+
+        .link-card:hover {
+            border-color: #2c3e50;
+            background: white;
+        }
+
+        .link-card h3 {
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+
+        .link-card p {
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        footer {
+            text-align: center;
+            color: #666;
+            padding: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .about-section {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Hi, I'm Nilima Kafle 👋</h1>
+            <p class="subtitle">Software Developer | Full-Stack & Data Analytics</p>
+            <p class="tech-stack">JavaScript • React • Java • Spring Boot • Python • SQL</p>
+            <nav>
+                <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#explore">Explore</a>
+            </nav>
+        </header>
+
+        <section class="about-section" id="about">
+            <div class="about-content">
+                <h2>👩‍💻 About Me</h2>
+                <p>I am a passionate <strong>Software Developer with 3+ years of experience</strong> building data-driven web applications and full-stack solutions. I enjoy turning complex problems into clean, user-friendly systems using <strong>JavaScript, React, Java, Spring Boot, Python, and SQL</strong>.</p>
+                
+                <p>I also bring experience as a <strong>Data Analyst</strong>, where I:</p>
+                <ul>
+                    <li>Extracted and analyzed data using SQL</li>
+                    <li>Identified trends and insights</li>
+                    <li>Built dashboards and reports for stakeholders and faculty</li>
+                </ul>
+                
+                <p>I've worked on both <strong>academic and professional projects</strong> involving dashboards, database integration, and reporting. I'm always excited to <strong>learn, grow, and contribute to meaningful technology solutions</strong>.</p>
+            </div>
+            <div class="profile-image">
+                <img src="https://via.placeholder.com/250x250/2c3e50/ffffff?text=Nilima+Kafle" alt="Nilima Kafle">
+            </div>
+        </section>
+
+        <section class="skills-section" id="skills">
+            <h2>🚀 What I Can Do</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <h3>💻 Full-Stack Development</h3>
+                    <ul>
+                        <li>Build responsive web apps using React, Java, Spring Boot, HTML, CSS</li>
+                        <li>Design RESTful APIs and integrate frontend & backend systems</li>
+                    </ul>
+                </div>
+
+                <div class="skill-card">
+                    <h3>📊 Data Analysis & Reporting</h3>
+                    <ul>
+                        <li>Extract, clean, and analyze data using SQL & Python</li>
+                        <li>Create dashboards and visualizations for actionable insights</li>
+                    </ul>
+                </div>
+
+                <div class="skill-card">
+                    <h3>🗄️ Database & Backend</h3>
+                    <ul>
+                        <li>Design and manage relational databases</li>
+                        <li>Write optimized queries and ensure data integrity</li>
+                    </ul>
+                </div>
+
+                <div class="skill-card">
+                    <h3>⚙️ Automation & Efficiency</h3>
+                    <ul>
+                        <li>Automate workflows and reporting processes</li>
+                        <li>Reduce manual effort and improve reliability</li>
+                    </ul>
+                </div>
+
+                <div class="skill-card">
+                    <h3>🤝 Collaboration & Agile</h3>
+                    <ul>
+                        <li>Work in Agile teams</li>
+                        <li>Collaborate across technical and non-technical stakeholders</li>
+                    </ul>
+                </div>
+
+                <div class="skill-card">
+                    <h3>📝 Documentation</h3>
+                    <ul>
+                        <li>Write clean, maintainable documentation for projects and systems</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="links-section" id="explore">
+            <h2>🔗 Explore More</h2>
+            <div class="link-cards">
+                <a href="resume.html" class="link-card">
+                    <h3>📄 Resume</h3>
+                    <p>Experience, skills, and accomplishments</p>
+                </a>
+                <a href="projects.html" class="link-card">
+                    <h3>💡 Projects</h3>
+                    <p>Projects with screenshots and GitHub links</p>
+                </a>
+                <a href="contact.html" class="link-card">
+                    <h3>📬 Contact</h3>
+                    <p>Email and LinkedIn</p>
+                </a>
+            </div>
+        </section>
+
+        <footer>
+            ⭐ Thanks for visiting my portfolio! ⭐
+        </footer>
+    </div>
+</body>
+</html>
