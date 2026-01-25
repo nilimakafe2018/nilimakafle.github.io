@@ -63,7 +63,7 @@ I’ve worked on both **academic and professional projects** involving dashboard
 
 ## 🔗 Explore More
 
-- 📄 **[Resume & Achievements](Nilima_Kafle_Resume.pdf)** – View my resume
+- 📄 **[Resume & Achievements](resume.md)** – Experience, skills, and accomplishments
 - 💡 **[Project Work](projects.md)** – Projects with screenshots and GitHub links  
 - 📬 **[Contact Me](contact.md)** – Email and LinkedIn  
 
