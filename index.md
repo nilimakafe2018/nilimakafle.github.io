@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Nilima Kafle 
+  Nilima Kafle 
   <img src="https://github.com/user-attachments/assets/5f3b6cba-9346-4716-ad57-2c665c7d90bb" width="35" />
 </h1>
 
